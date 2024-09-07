@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	float l,b;
+   float l,b;
    cout<<"Enter the lenght : ";
    cin>>l;
    cout<<"Enter the breadth : ";
